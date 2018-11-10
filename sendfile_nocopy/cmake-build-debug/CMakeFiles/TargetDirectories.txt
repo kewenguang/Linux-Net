@@ -1,0 +1,3 @@
+/home/sgengine/Documents/Linux Net Study/sendfile_nocopy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sgengine/Documents/Linux Net Study/sendfile_nocopy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sgengine/Documents/Linux Net Study/sendfile_nocopy/cmake-build-debug/CMakeFiles/sendfile_nocopy.dir
