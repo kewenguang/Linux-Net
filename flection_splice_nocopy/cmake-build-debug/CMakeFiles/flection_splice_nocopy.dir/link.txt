@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/flection_splice_nocopy.dir/main.cpp.o  -o flection_splice_nocopy 
