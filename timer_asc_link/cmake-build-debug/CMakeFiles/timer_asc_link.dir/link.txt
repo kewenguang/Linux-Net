@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/timer_asc_link.dir/main.cpp.o  -o timer_asc_link 

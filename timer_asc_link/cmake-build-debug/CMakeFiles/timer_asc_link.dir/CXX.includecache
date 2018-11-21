@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/timer_asc_link/list_timer.h
+time.h
+-
+netinet/in.h
+-
+cstdio
+-
+
+/home/sgengine/Documents/Linux Net Study/timer_asc_link/main.cpp
+iostream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+assert.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+errno.h
+-
+string.h
+-
+fcntl.h
+-
+signal.h
+-
+list_timer.h
+/home/sgengine/Documents/Linux Net Study/timer_asc_link/list_timer.h
+sys/epoll.h
+-
+
