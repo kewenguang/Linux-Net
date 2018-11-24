@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/transport_fd_between_process/main.cpp
+fcntl.h
+-
+sys/socket.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+

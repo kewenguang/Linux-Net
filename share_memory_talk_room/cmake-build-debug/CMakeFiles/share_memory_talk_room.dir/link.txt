@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -lpthread -lrt CMakeFiles/share_memory_talk_room.dir/main.cpp.o  -o share_memory_talk_room 

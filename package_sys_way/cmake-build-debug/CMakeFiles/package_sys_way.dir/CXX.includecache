@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/package_sys_way/main.cpp
+exception
+-
+pthread.h
+-
+semaphore.h
+-
+

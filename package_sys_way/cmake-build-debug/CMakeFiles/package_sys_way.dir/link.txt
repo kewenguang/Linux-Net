@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/package_sys_way.dir/main.cpp.o  -o package_sys_way 

@@ -27,7 +27,7 @@ int main(int argc, char **argv) {
          select(fd+1,0,&fds,0,0);
          send(fd,SEND_NORMAL_DATA,strlen(SEND_NORMAL_DATA),0); //发送正常数据
          //注意: 带外数据,接收端的带外缓存只有1Byte,所以只有字符'c'是真正的带外数据,同理带MSG_OOB标志的recv能接收带外数据
-         send(fd,SEND_OOB_DATA,strlen(SEND_OOB_DATA),MSG_OOB); //使用带外数据标志flag=MSG_OOB
+         //send(fd,SEND_OOB_DATA,strlen(SEND_OOB_DATA),MSG_OOB); //使用带外数据标志flag=MSG_OOB
 
          close(fd);
 }

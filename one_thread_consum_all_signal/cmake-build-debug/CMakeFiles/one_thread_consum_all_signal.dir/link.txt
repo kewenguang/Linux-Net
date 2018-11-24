@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/one_thread_consum_all_signal.dir/main.cpp.o  -o one_thread_consum_all_signal -lpthread 

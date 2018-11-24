@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/one_thread_consum_all_signal/main.cpp
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+signal.h
+-
+errno.h
+-
+

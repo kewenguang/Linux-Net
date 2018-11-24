@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/relation_between_process_and_thread.dir/main.cpp.o  -o relation_between_process_and_thread -lpthread 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/deadlock_for_thread/main.cpp
+pthread.h
+-
+unistd.h
+-
+stdio.h
+-
+

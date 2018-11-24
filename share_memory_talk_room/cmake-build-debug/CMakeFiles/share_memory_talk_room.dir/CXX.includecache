@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sgengine/Documents/Linux Net Study/share_memory_talk_room/main.cpp
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+assert.h
+-
+stdio.h
+-
+unistd.h
+-
+errno.h
+-
+string.h
+-
+fcntl.h
+-
+stdlib.h
+-
+sys/epoll.h
+-
+signal.h
+-
+sys/wait.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+
